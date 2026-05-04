@@ -45,7 +45,7 @@ Students also waste precious minutes walking to the **wrong outlet** — one tha
 - Walk time, round-trip estimate, and time-feasibility check per outlet
 
 ### ⏰ Break Timer
-- **Real system clock** monitoring — 10:35–10:55 AM and 2:15–2:35 PM windows
+- **Real system clock** monitoring — 10:40–10:50 AM and 2:20–2:30 PM windows
 - Live countdown showing minutes and seconds remaining
 - Order blocked (with warning) if round-trip + prep time exceeds break remaining
 
